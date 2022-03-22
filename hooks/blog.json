@@ -1,0 +1,118 @@
+ [
+        {
+            "_id": "61ad46c1abbc329d7db1f066",
+            "post_id": "4",
+            "category": "Developer Guides",
+            "sub_category": "Developer Guides",
+            "title": "Getting Stuck on Coding Basics? Read this",
+            "description": "Yes! there is a coding tutorial purgatory, and many devs and data science enthusiasts are caught up in that cycle, a cycle of learning how to code but not being able to do anything tangible with what you have learnt. This is one of the reasons I started my blog, because I noticed that there are a lot of tutorials out there that focus on the basics, of programming, but not a lot of information on how to get you from those basics to building actual real life projects and solving real problems.",
+            "tags": [
+                "Guides"
+            ],
+            "image_url": "https://ddxzec2p5v0iq.cloudfront.net/blog-image-guide.svg",
+            "author": "Stephen Sanwo",
+            "creation_date": "2021-12-06T01:27:28.732000",
+            "content": [
+                "Introduction",
+                "The Problem",
+                "Building Projects",
+                "Going Beyond Language Syntax",
+                "Information Overload",
+                "Focus on Problem Solving",
+                "Requirements File"
+            ],
+            "tldr": "Yes! there is a coding tutorial purgatory, and many devs and data science enthusiasts are caught up in that cycle, a cycle of learning how to code but not being able to do anything tangible with what you have learnt. This is one of the reasons I started my blog, because I noticed that there are a lot of tutorials out there that focus on the basics, of programming, but not a lot of information on how to get you from those basics to building actual real life projects and solving real problems.",
+            "series_title": "",
+            "post_url": "getting-stuck-on-coding-basics-read-this",
+            "featured_post": false
+        },
+        {
+            "_id": "61ad302fabbc329d7db1f061",
+            "post_id": "3",
+            "category": "APIs and Software Development",
+            "sub_category": "Intermediate Python - From Scripting to Software",
+            "title": "Intermediate Python - Why you should use Virtual Environments in Python and how to set it up",
+            "description": "Consider this scenario, you are working on app A, using your system installed python and you pip install packageX version 1.0 to your global python library. Then you switch to another project B on your local machine, and you install the same packageX but version 2.0, which has some breaking changes between version 1.0 and 2.0. All of a sudden when you go back to run your project A, you get all sorts of errors, and your app does not run. This is a practical scenario you can run into when building software with python, and to get around this, we use Virtual Environments. This tutorial will cover everything you need to know about virtual environments and how to set it up.",
+            "tags": [
+                "Python"
+            ],
+            "image_url": "https://ddxzec2p5v0iq.cloudfront.net/blog-image-venv.svg",
+            "author": "Stephen Sanwo",
+            "creation_date": "2021-12-05T01:27:28.732000",
+            "content": [
+                "Introduction",
+                "What is a Virtual Environment",
+                "Installing Virtual environments using Venv",
+                "Activating the virtual environment",
+                "Is it working?",
+                "Installing Libraries",
+                "Requirements File",
+                "Deactivating your virtual environment",
+                "Conclusion"
+            ],
+            "tldr": "Consider this scenario, you are working on app A, using your system installed python and you pip install packageX version 1.0 to your global python library. Then you switch to another project B on your local machine, and you install the same packageX but version 2.0, which has some breaking changes between version 1.0 and 2.0. All of a sudden when you go back to run your project A, you get all sorts of errors, and your app does not run. This is a practical scenario you can run into when building software with python, and to get around this, we use Virtual Environments. This tutorial will cover everything you need to know about virtual environments and how to set it up.",
+            "series_title": "Intermediate Python",
+            "post_url": "intermediate-python-why-you-should-use-virtual-environments-in-python-and-how-to-set-it-up",
+            "featured_post": true
+        },
+        {
+            "_id": "6189b144229add7cd5e4edf0",
+            "post_id": "2",
+            "category": "APIs and Software Development",
+            "sub_category": "Building Full Stack Applications",
+            "title": "Build a full stack AI Chatbot Part II - GPT-J-6B Wrapper",
+            "description": "In this section, we will focus on building a wrapper to communicate with the  GPT-J-6B API, send prompts from a user to the API in a conversational format, and receive and transform responses for our chat application",
+            "tags": [
+                "Python",
+                "GPT",
+                "WebSockets",
+                "React",
+                "FastAPI",
+                "Redis",
+                "Digital Ocean"
+            ],
+            "image_url": "https://ddxzec2p5v0iq.cloudfront.net/blog-image-design.svg",
+            "author": "Stephen Sanwo",
+            "creation_date": "2021-11-05T01:27:28.732000",
+            "content": [
+                "Introduction",
+                "Setting up the Python Environment",
+                "Installing the required Python Libraries",
+                "Building and testing the GPTJ model"
+            ],
+            "tldr": "One of the best ways to learn how to develop full stack applications is to build projects that cover the end to end development process, from designing the solution architecture, to building the API, developing the user interface, and finally deploying your application. This tutorial will take your through each step using a project based example",
+            "series_title": "Build a full stack AI Chatbot with GPT, React, FastAPI, Redis & Digital Ocean",
+            "post_url": "build-a-full-stack-ai-chatbot-part-ii-gpt-j-6b-wrapper",
+            "featured_post": false
+        },
+        {
+            "_id": "6187aef6229add7cd5e4edee",
+            "post_id": "1",
+            "category": "APIs and Software Development",
+            "sub_category": "Building Full Stack Applications",
+            "title": "Build a full stack AI Chatbot Part I - Introduction",
+            "description": "One of the best ways to learn how to develop full stack applications is to build projects that cover the end to end development process, from designing the solution architecture, to building the API, developing the user interface, and finally deploying your application. This tutorial will take your through each step using a project based example.",
+            "tags": [
+                "Python",
+                "GPT",
+                "WebSockets",
+                "React",
+                "FastAPI",
+                "Redis",
+                "AWS"
+            ],
+            "image_url": "https://ddxzec2p5v0iq.cloudfront.net/blog-image-design.svg",
+            "author": "Stephen Sanwo",
+            "creation_date": "2021-11-05T01:27:28.732000",
+            "content": [
+                "Introduction - What we will be building",
+                "Solution Architecture",
+                "Development Environment"
+            ],
+            "tldr": "One of the best ways to learn how to develop full stack applications is to build projects that cover the end to end development process, from designing the solution architecture, to building the API, developing the user interface, and finally deploying your application. This tutorial will take your through each step using a project based example",
+            "series_title": "Build a full stack AI Chatbot with GPT, React, FastAPI, Redis & AWS",
+            "post_url": "build-a-full-stack-ai-chatbot-part-i-introduction",
+            "featured_post": true
+        }
+]
+    
